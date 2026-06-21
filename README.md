@@ -32,9 +32,9 @@ The project uses four datasets representing different stages of the adoption jou
 <img width="993" height="550" alt="datasets" src="https://github.com/user-attachments/assets/5a942c26-76b8-4e8a-832c-b65658330008" />
 
 ### Final Dataset
-320 enquiries
-270 visits
-105 successful adoptions
+320 enquiries</br>
+270 visits</br>
+105 successful adoptions</br>
 
 ## Data Cleaning & Preparations
 
@@ -97,32 +97,32 @@ Explored characteristics associated with returned animals.
 - 84.4% of enquiries progressed to a visit.
 - Only 38.9% of visits resulted in adoption.
 - Overall enquiry-to-adoption conversion was 32.8%.</br>
-</br>
+
 <img width="1285" height="153" alt="adoption_funnel" src="https://github.com/user-attachments/assets/e190f6ca-ebe9-421c-8339-81632e39dec6" />
 
 **2. Website enquiries drive adoption success**
 - Website generated 57 successful adoptions.
 - Facebook achieved a higher conversion rate (40%).
 - Website results were more reliable due to significantly larger volumes.</br>
-</br>
+
 <img width="419" height="834" alt="channel_performance" src="https://github.com/user-attachments/assets/a7d99f41-e989-4364-9bc7-9d910b8217ea" />
 
 **3. Animals in good health account for most successful adoptions**
 - 62 successful adoptions involved animals in good health.
 - Adoption volumes declined across other health categories.</br>
-</br>
+
 <img width="1486" height="137" alt="health_status" src="https://github.com/user-attachments/assets/981f6713-7be4-40f6-99d2-15c4f0018d79" />
 
 **4. Most successful adoptions occur after a single visit**
 - One attended visit resulted in 83 successful adoptions.
 - Higher conversion rates for multiple visits were driven by small sample sizes.</br>
-</br>
+
 <img width="352" height="719" alt="visit_summary" src="https://github.com/user-attachments/assets/3ce08a11-3f14-4e1c-9af1-fa18d0e88c48" />
 
 **5. Rapid responses appear beneficial**
 - Most successful adoptions originated from enquiries responded to within 24 hours.
 - Longer response times were associated with lower adoption volumes.</br>
-</br>
+
 
 ## Business Recommendations
 
@@ -153,8 +153,9 @@ Does increased engagement improve adoption outcomes?
 
 ### Analysis
 
-[01_data_preparation.ipynb](https://github.com/user-attachments/files/29180854/01_data_preparation.ipynb)
-[02_eda_and_insights.ipynb](https://github.com/user-attachments/files/29180864/02_eda_and_insights.ipynb)
+- [Data Preparation](notebooks/01_data_preparation.ipynb)
+- [Analysis & Insights](notebooks/02_analysis_and_insights.ipynb)
+
 ### Presentation
 
 [animal-shelter-slide-deck.pdf](https://github.com/user-attachments/files/29180850/animal-shelter-slide-deck.pdf)
