@@ -145,7 +145,7 @@ The Tableau dashboard focuses on four key business questions:
 - **Health Status:** Which health groups account for successful adoptions?
 - **Visit Summary:** Does increased engagement improve adoption outcomes?
 
-- [Tableau Public Dashboard](https://public.tableau.com/app/profile/lisa.bentman/viz/animal-shelter-adoption-analysis/AnimalShelter)
+[Tableau Public Dashboard](https://public.tableau.com/app/profile/lisa.bentman/viz/animal-shelter-adoption-analysis/AnimalShelter)
 
 <img width="1192" height="793" alt="tableau_dashboard" src="https://github.com/user-attachments/assets/849569d8-56e6-4cd0-bf4d-2bf3b6a67dc0" />
 
