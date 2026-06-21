@@ -1,0 +1,173 @@
+animal_id,name,species,breed,age_years,colour,sex,intake_date,health_status,adoptable
+A001,Luna,Dog,Bulldog,4,Brown,M, 2025/01/26 ,In Treatment,No
+A002,Luna,Dog,Whippet,3,Cream,F,03/09/2024,Minor Issues,No
+A003,Finn,Dog,Whippet,1,Tortoiseshell,M,24 Nov 2024,Minor Issues,No
+A004,Nala,Cat,Russian Blue,8,Tortoiseshell,m, 2025-02-01 , Minor Issues ,
+A005,Tilly,Cat,Siamese,3,Black,f,2024-08-04,,Yes
+A006,Poppy,Dog,Labrador,5,White,F,06 Aug 2024,Good,Yes
+A007,Teddy,Cat,Persian,3,Black & White,F, 04 Nov 2024 ,Minor Issues,Yes
+A008,Pepper, Cat ,ragdoll,8,Cream,M,06 November 2024,GOOD,yes
+A009,Teddy,Cat,Persian,,White,M,26/02/2025,Good,yes
+A010,Rosie,cat,Mixed Breed,8,Brown,F,2024-09-20 00:00:00,In Treatment,Yes
+A011,Milo,Dog, Beagle ,3, Black ,F,06 October 2024,In Treatment,
+A012,Daisy,Dog,Dachshund,5,Cream,F,01 Nov 2024,Good,Yes
+A013,Finn,Dog,Greyhound,1,grey,F,2025-02-11,Minor Issues,No
+A014,Willow,Dog,Staffy,5,BLACK & WHITE,M,19-12-2024,Good,Yes
+A015,Luna,Cat,Sphynx,13,calico,f,2024/12/03,Chronic,No
+A016,Shadow,Cat,Russian Blue,1,Ginger,M,20/08/2024, Good ,
+A017,Shadow,Dog,Greyhound,7, Brown ,f,19-08-2024,CHRONIC, Yes 
+A018,Maisie,DOG,Beagle,1,Ginger,F,07/09/2024,Good,Yes
+A019,Finn,cat,Norwegian Forest Cat,6,Black,M,2024-09-21 00:00:00,Minor Issues,Yes
+A020,Maisie,Cat,Mixed Breed,3,Ginger,M,27 August 2024,Good,Yes
+A021,Tilly,Cat,Bengal,0,Ginger,M,17 Feb 2025,Minor Issues,no
+A022,Tilly,Dog,Beagle,7,Grey,F,26 October 2024,Good,No
+A023,Willow,Cat,Bengal,11,tabby,M,16/09/2024,Good,Yes
+A024,Bonnie,Cat,Tabby,7,Brown,F,27 October 2024,Good,No
+A025,Willow,CAT,Tuxedo,5,Brindle,M,06/12/2024,In Treatment,No
+A026,Rocky,Dog,Husky,3,,F,2024/10/17, Minor Issues ,Yes
+A027,Misty,Cat,Russian Blue,1,GINGER,M,26 February 2025,Good,Yes
+A028,Luna,Dog,Labrador,12,White,f,04/01/2025,Good,No
+A029,Poppy,Cat,British Shorthair,, Ginger ,F,22-09-2024,In Treatment,No
+A030,Rocky,Dog,German Shepherd,7,cream,F,01-02-2025,Good,Yes
+A031,Simba,Dog,Mixed Breed,,Grey, M ,26/11/2024,Good,Yes
+A032,Teddy,Cat,Domestic Shorthair,1,Tabby,M,07 Oct 2024,Good,Yes
+A033,Tilly,Cat,siamese,4,Black,,30-09-2024,Minor Issues,No
+A034,Bonnie,Dog,Terrier,9,Calico,F,2024/10/16,Good,Yes
+A035,Rocky,Dog,Beagle,3, Black & White ,M,2025/01/29,In Treatment,No
+A036,Rosie,Cat,Norwegian Forest Cat,9,Tabby,F,02-02-2025,IN TREATMENT, Yes 
+A037,Buddy,Cat,Russian Blue,2,,M,10 January 2025,good,No
+A038,Rosie,CAT,Tuxedo,4,Brown,M,22-10-2024,Good,Yes
+A039,Shadow,Dog,Terrier,4,Brown,M,2024/10/16,Minor Issues,NO
+A040,Willow,Cat, Persian ,7,white,M,05-11-2024,GOOD,No
+A041,Charlie,DOG,Labrador,2,Brindle,F,14 December 2024,Minor Issues,Yes
+A042,Bella,Dog,Dachshund,3,Tabby,F,12-11-2024,Good,Yes
+A043,Bella,cat,Russian Blue,9,tabby,M,2024/10/04,Minor Issues,No
+A044,Ziggy,Dog,German Shepherd,1,Black,F, 2025-02-28 00:00:00 ,Good,Yes
+A045,Tilly,Dog,Whippet,4,Tabby,f,2024-09-03,Good,No
+A046,Maisie,Dog,Staffy,5, Grey ,F,27-02-2025,good,
+A047,Murphy,Dog,labrador,6,Cream,F,30-10-2024,Good,Yes
+A048,Archie,Cat,Siamese,0,Brindle,M,2025-02-19,good,Yes
+A049,Archie,Cat,Persian,5, Brindle ,M, 2024/08/10 ,Good,Yes
+A050,Milo,Dog,Bulldog,4,Black,F,11 December 2024,Good,Yes
+A051,Luna,Dog,Collie,10,White,M,2025/02/24,Good,Yes
+A052,Sasha,Dog,Spaniel,4,Calico, F ,14-01-2025,Good,Yes
+A053,Ziggy,Dog,whippet,2,Ginger,M,2024-11-05 00:00:00,Good,Yes
+A054,Max,Cat,Russian Blue,0,cream,F,2025-02-19 00:00:00,CHRONIC,Yes
+A055,Tilly, Dog ,Bulldog,,Black,F, 28-12-2024 ,Minor Issues,
+A056,Daisy,Cat,Maine Coon,2,Calico,M,2024-12-20 00:00:00,CHRONIC,Yes
+A057,Nala,Cat,Sphynx,1,Tortoiseshell,F, 2025/02/28 ,Minor Issues,no
+A058,Pepper,Cat,British Shorthair,,Brown,F,10/01/2025, In Treatment ,Yes
+A059,Lola,Dog,Greyhound,0,Calico,F,2025-01-08,Good,Yes
+A060,Coco,Dog,Whippet,7,Grey,F,11-10-2024,GOOD,Yes
+A061,Rocky, Dog ,Staffy,5,Tortoiseshell,F,2024/11/12,Good,Yes
+A062,Oscar,Dog,Spaniel,2,Tortoiseshell,M,2024-11-28,Good,Yes
+A063,Bella,Dog,Whippet,3,Ginger,M,28 September 2024,Chronic,No
+A064,Charlie,dog,Bulldog,9,Ginger, M ,10-10-2024,In Treatment,no
+A065,Sasha,Dog,German Shepherd,,black,M,26/08/2024,Chronic,Yes
+A066,Willow,Dog,Spaniel,6,White,M,2024-10-17,minor issues,Yes
+A067,Misty,Dog, Beagle ,14,Calico,M, 03-02-2025 ,Good,Yes
+A068,Poppy,dog,Husky,8,Tortoiseshell,F,22 February 2025,Minor Issues,Yes
+A069,Charlie,Dog,Poodle,2,Grey,F,28 October 2024,Good,yes
+A070,Buddy,Dog,Dachshund,3,,M,28/08/2024,Good,No
+A071,Jasper,Cat,Mixed Breed,7, White , M ,2024-12-11 00:00:00,Good,No
+A072,Ruby,Dog,Poodle,1,Calico,F,2025-01-18,In Treatment,Yes
+A073,Misty,Dog,Labrador,,White,F,06-11-2024,Good,YES
+A074,Teddy,CAT,Norwegian Forest Cat,5,Tabby,M,23/11/2024,Minor Issues,No
+A075,Biscuit,Cat,Siamese,8,GINGER,M,18 Aug 2024,Good,Yes
+A076,Coco,Dog,Husky,7,Brown,F,25 January 2025,In Treatment,No
+A077,Misty,Dog,Husky,9,Black,M,10-01-2025,Good,Yes
+A078,Bonnie,Dog,mixed breed,1,Cream,F,03-11-2024,GOOD,YES
+A079,Bailey,Cat,Sphynx,2,Tabby,F,03 October 2024,Good,Yes
+A080,Ruby,Dog,labrador,7, Brown ,M,21-01-2025,Good, Yes 
+A081,Max,Dog,Staffy,7,Tabby,M,26-11-2024,minor issues, Yes 
+A082,Misty,Dog,Greyhound,1,Black & White,F,2024/11/01,In Treatment,YES
+A083,Molly,Cat,Domestic Shorthair,4,ginger,M,05 February 2025,Good,yes
+A084,Lucy,Dog, Labrador ,3,,M, 17 Aug 2024 ,in treatment,No
+A085,Milo,Dog,Mixed Breed,7,Cream,F,2024-12-30 00:00:00,Good,Yes
+A086,Charlie,Dog,Dachshund,,Brindle,M,2024/09/21,In Treatment,No
+A087,Finn, Cat ,Siamese,2,Black & White,f,16 Sep 2024,Good, Yes 
+A088,Jasper,Cat,tuxedo,,Calico,F,2025-01-15,Minor Issues,
+A089,Simba,Cat,tuxedo,2,Ginger,M,20/10/2024,Good,No
+A090,Oscar,Cat,Domestic Shorthair,8,Grey,F,20-02-2025,Minor Issues,Yes
+A091,Lucy,Cat,Domestic Shorthair,4,Grey,f,06 Sep 2024,good,No
+A092,Biscuit, Dog ,Poodle,2,Ginger,F,14 January 2025,In Treatment,Yes
+A093,Charlie,Cat,Norwegian Forest Cat,6,Tortoiseshell,M,2024-12-30 00:00:00,Minor Issues,No
+A094,Simba,Dog,Husky,1,Grey,F, 2024/12/22 ,Good,Yes
+A095,Ruby,Cat,Maine Coon,0,,M,13/12/2024,Good,
+A096,Molly,Dog,Terrier,3,Black,M,08 December 2024,Good,No
+A097,Pepper,Dog,German Shepherd,,Cream, F ,2024-11-10,Good,Yes
+A098,Lucy,Cat,Tuxedo,7,Tortoiseshell,m,2024-08-30 00:00:00,good,No
+A099,Bonnie,CAT,Maine Coon,9,Cream,M, 14/08/2024 ,Good,Yes
+A100,Pepper, Dog ,Mixed Breed,2,black & white,M,15 January 2025,,No
+A101,Buddy,Dog,Beagle,13,Brindle,,07 December 2024,Good,Yes
+A102,Charlie,Dog,Whippet,12,Cream,M,24 Jan 2025,,Yes
+A103,Maisie,Dog,Labrador,6,Black,M,07/11/2024, Good ,Yes
+A104,Coco,Cat,Norwegian Forest Cat,2,Tortoiseshell,F,02-02-2025,Good,No
+A105,Finn,Cat,Tuxedo,1,Black,F, 01 January 2025 ,Good,Yes
+A106,Poppy,cat,Domestic Longhair,3,Calico,M, 2024-11-20 ,Good,Yes
+A107,Jasper,Dog,Dachshund,9,Black & White,M,19 Sep 2024,Minor Issues,No
+A108,Finn,Dog, Beagle ,8,Brown,F,31 Dec 2024,Good,Yes
+A109,Buddy,Dog,Dachshund,1,brown,F,22 September 2024,Good,No
+A110,Willow,Dog,Greyhound,6,Black,F,17 August 2024,Minor Issues,Yes
+A111,Simba,DOG, Dachshund ,0,grey,M,03 February 2025,good,Yes
+A112,Misty,Cat,ragdoll,, Brindle ,f, 2024-10-30 ,GOOD,Yes
+A113,Tilly,Cat,Domestic Shorthair,0,Black,M,2025/02/02,Good,Yes
+A114,Bonnie,Cat,Russian Blue,3,Tortoiseshell,F,07 February 2025,Good,Yes
+A115,Luna,Cat,Tabby,2,BLACK & WHITE,M,2024-09-09 00:00:00,Minor Issues,No
+A116,Rosie, Dog ,Terrier,8,Black, F ,2024/08/11,Good,
+A117,Luna,Cat,Domestic Shorthair,2,Black & White,M,11 Sep 2024,Minor Issues,yes
+A118,Poppy,dog,Husky,0,Black, M ,2025-02-14,minor issues,Yes
+A119,Ruby,Cat,Ragdoll,8,Tortoiseshell,F,17 September 2024,IN TREATMENT,Yes
+A120,Murphy,Cat,Tabby,1,Black,M,08 August 2024,Good,Yes
+A121,Sasha,Cat,Domestic Longhair,2,Ginger,F, 19 October 2024 ,,No
+A122,Poppy,Dog,Collie,6,Cream,F,05-11-2024,minor issues,Yes
+A123,Simba,Dog,Staffy,6,Tortoiseshell,M,26 September 2024,In Treatment,Yes
+A124,Willow,Dog,dachshund,6,White, M ,2024-11-13,good,Yes
+A125,Simba,Dog,Labrador,3,Grey,F,10/11/2024,Good,Yes
+A126,Bella,Cat,Domestic Shorthair,1,Brindle,M,04 Jan 2025,In Treatment,Yes
+A127,Max,DOG,Poodle,12,Cream,M,2025/02/12,Good,Yes
+A128,Tilly,Dog,bulldog,10,Cream,F,2024-09-19,Good,Yes
+A129,Lucy,DOG,GERMAN SHEPHERD,8,Cream,M,04 Feb 2025,GOOD,Yes
+A130,Coco,Cat,Tuxedo,4,Calico,F,2024-08-15,In Treatment,No
+A131,Daisy,Dog,Greyhound,5,,m,2024/12/16,Good, Yes 
+A132,Poppy,Cat,Tabby,8,Black & White,M,2024-08-15,Good,Yes
+A133,Simba,Cat,Persian,1,Cream,F,2024-10-18,Good,
+A134,Archie,Cat,Norwegian Forest Cat,12,white,F,09 Dec 2024,Good,Yes
+A135,Biscuit,Cat,Norwegian Forest Cat,14,tabby,F,12 September 2024,Good,Yes
+A136,Jasper,Cat,Domestic Shorthair,0,Calico,F,2025-02-13 00:00:00,Good,No
+A137,Rosie,cat,ragdoll,9,Black & White,F, 24/01/2025 ,Good,Yes
+A138,Archie,Cat,RUSSIAN BLUE,1,CALICO,M,31 January 2025,In Treatment,Yes
+A139,Max,Cat,Ragdoll,3,Black,M,16-10-2024,Minor Issues,Yes
+A140,Biscuit,Cat,Mixed Breed,6,Tabby,F, 05-10-2024 ,Good,Yes
+A141,Maisie,Cat,ragdoll,8,Cream,F,13 Aug 2024,Minor Issues,
+A142,Bella,Dog,LABRADOR,1,White,M,2024/09/10,good,yes
+A143,Coco,Cat,Ragdoll,13,Ginger,M,19 Nov 2024,GOOD,No
+A144,Biscuit,Cat,Russian Blue,4, Calico ,M,2024-08-07,Good,No
+A145,Finn,Dog,Collie,7,black, F ,2024/11/05,Good,Yes
+A146,Willow,CAT,PERSIAN,11,Tortoiseshell,f,2024-12-06 00:00:00,MINOR ISSUES,Yes
+A147,Buddy,Dog, Collie ,6,Tabby,F,26 November 2024,Good,Yes
+A148,Ziggy, Dog ,Beagle,6,,M,2024/10/18,Good,Yes
+A149,Bella,Dog,Bulldog,,Brindle,, 2024-09-01 00:00:00 ,MINOR ISSUES,Yes
+A150,Leo,Dog,Husky,2,Tortoiseshell,F,16 Oct 2024,Minor Issues,no
+A151,Ziggy,Dog,Dachshund,8,Cream,M,06 February 2025,Good,Yes
+A152,Luna,Dog,Spaniel,3,BLACK & WHITE,F,17 August 2024,Good,Yes
+A153,Bella,Dog,Spaniel,3,CALICO,M, 2024-10-23 00:00:00 ,Chronic,Yes
+A154,Jasper,Cat,Bengal,2,Grey,F,2025/02/10,Good,Yes
+A155,Simba,Cat,Mixed Breed,8,GREY,F,2024/12/02,Good,Yes
+A156,Bailey,Cat,Sphynx,5,Black & White,F,2024-09-14 00:00:00,Chronic,Yes
+A157,Milo,Dog,Poodle,, Black ,F,06/08/2024,Good,Yes
+A158,Tilly,Dog, Beagle ,12,Grey,F,2025-01-19 00:00:00,Good,
+A159,Pepper,Cat,Bengal,1,Black,F,10 Dec 2024,Good,
+A160,Simba,Cat,Sphynx,1,Tabby,F,09/12/2024,Good,Yes
+A144,Biscuit,Cat,Russian Blue,4, Calico ,M,2024-08-07,Good,No
+A123,Simba,Dog,Staffy,6,Tortoiseshell,M,26 September 2024,In Treatment,Yes
+A130,Coco,Cat,Tuxedo,4,Calico,F,2024-08-15,In Treatment,No
+A088,Jasper,Cat,tuxedo,,Calico,F,2025-01-15,Minor Issues,
+A073,Misty,Dog,Labrador,,White,F,06-11-2024,Good,YES
+A057,Nala,Cat,Sphynx,1,Tortoiseshell,F, 2025/02/28 ,Minor Issues,no
+A149,Bella,Dog,Bulldog,,Brindle,, 2024-09-01 00:00:00 ,MINOR ISSUES,Yes
+A140,Biscuit,Cat,Mixed Breed,6,Tabby,F, 05-10-2024 ,Good,Yes
+A127,Max,DOG,Poodle,12,Cream,M,2025/02/12,Good,Yes
+A033,Tilly,Cat,siamese,4,Black,,30-09-2024,Minor Issues,No
+A108,Finn,Dog, Beagle ,8,Brown,F,31 Dec 2024,Good,Yes
+A132,Poppy,Cat,Tabby,8,Black & White,M,2024-08-15,Good,Yes
