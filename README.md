@@ -140,23 +140,21 @@ Explored characteristics associated with returned animals.
 
 The Tableau dashboard focuses on four key business questions:
 
-### Adoption Funnel
+**Adoption Funnel**
 Where are potential adopters dropping out?
 
-### Channel Performance
+**Channel Performance**
 Which channels drive successful adoptions?
 
-### Health Status
+**Health Status**
 Which health groups account for successful adoptions?
 
-### Visit Summary
+**Visit Summary**
 Does increased engagement improve adoption outcomes?
 
 - [Tableau Public Dashboard](https://public.tableau.com/app/profile/lisa.bentman/viz/animal-shelter-adoption-analysis/AnimalShelter)
 
 ### Analysis
-
-## Project Files
 
 | File | Description |
 |--------|--------|
