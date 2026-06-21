@@ -32,9 +32,12 @@ The project uses four datasets representing different stages of the adoption jou
 <img width="993" height="550" alt="datasets" src="https://github.com/user-attachments/assets/5a942c26-76b8-4e8a-832c-b65658330008" />
 
 ### Final Dataset
-320 enquiries</br>
-270 visits</br>
-105 successful adoptions</br>
+
+| Metric | Count |
+|---------|------:|
+| Enquiries | 320 |
+| Visits | 270 |
+| Successful Adoptions | 105 |
 
 ## Data Cleaning & Preparations
 
@@ -153,8 +156,12 @@ Does increased engagement improve adoption outcomes?
 
 ### Analysis
 
-- [Data Preparation](notebooks/01_data_preparation.ipynb)
-- [Analysis & Insights](notebooks/02_analysis_and_insights.ipynb)
+## Project Files
+
+| File | Description |
+|--------|--------|
+| [01_data_preparation.ipynb](notebooks/01_data_preparation.ipynb) | Data cleaning and preparation |
+| [02_analysis_and_insights.ipynb](notebooks/02_analysis_and_insights.ipynb) | Exploratory analysis and business insights |
 
 ### Presentation
 
