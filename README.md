@@ -161,7 +161,7 @@ Does increased engagement improve adoption outcomes?
 | File | Description |
 |--------|--------|
 | [01_data_preparation.ipynb](notebooks/01_data_preparation.ipynb) | Data cleaning and preparation |
-| [02_analysis_and_insights.ipynb](notebooks/02_analysis_and_insights.ipynb) | Exploratory analysis and business insights |
+| [02_analysis_and_insights.ipynb](notebooks/02_eda_and_insights.ipynb) | Exploratory analysis and business insights |
 
 ### Presentation
 
