@@ -1,4 +1,4 @@
-[02_eda_and_insights.ipynb](https://github.com/user-attachments/files/29180864/02_eda_and_insights.ipynb)[01_data_preparation.ipynb](https://github.com/user-attachments/files/29180846/01_data_preparation.ipynb)[01_data_preparation.ipynb](https://github.com/user-attachments/files/29180832/01_data_preparation.ipynb)# Animal Shelter Adoption Analysis
+# Animal Shelter Adoption Analysis
 
 ## Live Dashboard
 
@@ -154,7 +154,7 @@ Does increased engagement improve adoption outcomes?
 ### Analysis
 
 [01_data_preparation.ipynb](https://github.com/user-attachments/files/29180854/01_data_preparation.ipynb)
-
+[02_eda_and_insights.ipynb](https://github.com/user-attachments/files/29180864/02_eda_and_insights.ipynb)
 ### Presentation
 
 [animal-shelter-slide-deck.pdf](https://github.com/user-attachments/files/29180850/animal-shelter-slide-deck.pdf)
