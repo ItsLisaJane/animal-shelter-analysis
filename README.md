@@ -33,11 +33,11 @@ The project uses four datasets representing different stages of the adoption jou
 
 ### Final Dataset
 
-| Metric | Count |
-|---------|------:|
-| Enquiries | 320 |
-| Visits | 270 |
-| Successful Adoptions | 105 |
+**Enquiries:** 320
+
+**Visits:** 270
+
+**Successful Adoptions:** 105
 
 ## Data Cleaning & Preparations
 
@@ -165,7 +165,7 @@ Does increased engagement improve adoption outcomes?
 
 ### Presentation
 
-[animal-shelter-slide-deck.pdf](https://github.com/user-attachments/files/29180850/animal-shelter-slide-deck.pdf)
+[animal-shelter-slide-deck.pdf](slides/animal-shelter-slide-deck.pdf)
 
 ## Tools Used
 
